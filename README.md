@@ -1,4 +1,5 @@
 #Jajodia-Mutchler-voting-algorithm
+
 This project involves implementing the Jajodia-Mutchler voting algorithm on 
 eight servers named A, B, C, D, E, F, G, and H. The algorithm replicates a 
 single data object X subject to writes, and the network goes through a sequence 
